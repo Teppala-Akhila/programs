@@ -17,3 +17,11 @@ public class Factorial {
 		}
 	}
 }
+
+//output:
+//	5
+//	2
+//	1
+//	5 fact is 120
+//	2 fact is 2
+//	1 fact is 1
