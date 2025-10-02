@@ -37,3 +37,16 @@ public class max_min_in_2DArray {
 		System.out.println("The min element is: "+min);
 	}
 }
+
+//output:
+//	Enter no.of rows:
+//		3
+//		Enter no.of cols:
+//		3
+//		Enter the elements
+//		81 42 90
+//		64 11 21
+//		96 29 34
+//		The max element is: 96
+//		The min element is: 11
+
