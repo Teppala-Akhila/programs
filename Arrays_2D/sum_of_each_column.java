@@ -28,3 +28,16 @@ public class sum_of_each_column {
 	}
 
 }
+
+//output:
+//	Enter no.of rows:
+//		3
+//		Enter no.of cols:
+//		3
+//		Enter the elements
+//		1 2 3 
+//		4 5 6
+//		7 8 9
+//		The sum of column 0 is 12
+//		The sum of column 1 is 15
+//		The sum of column 2 is 18
