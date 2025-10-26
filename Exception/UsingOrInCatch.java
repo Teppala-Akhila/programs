@@ -15,3 +15,6 @@ public class UsingOrInCatch {
 
 }
 
+//output:
+//	Caught Exception java.lang.ArithmeticException: / by zero
+//	finally
