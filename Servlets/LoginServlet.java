@@ -1,3 +1,4 @@
+//url:http://localhost:8081/MovieTicketBooking/LoginServlet?num1=12&num2=13
 package com.set.moviebooking;
 
 import jakarta.servlet.ServletException;
@@ -41,3 +42,4 @@ public class LoginServlet extends HttpServlet {
 //	}
 
 }
+
